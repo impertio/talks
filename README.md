@@ -6,4 +6,6 @@ Useful talks to listen/watch
 
 
 ### Android
-- [Memory management for android apps - Google I/O 2011](https://www.youtube.com/watch?v=_CruQY55HOk)
+- [Memory management for android apps - Google I/O 2011](https://www.youtube.com/watch?v=_CruQY55HOk) <br>
+This talk will cover the memory management changes in Gingerbread and Honeycomb (concurrent GC, heap-allocated bitmaps, "largeHeap" option) and explore tools and techniques for profiling the memory usage of Android apps.<br>
+**2011, Google IO**
